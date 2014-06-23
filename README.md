@@ -1,2 +1,2 @@
-simplemvc_requirejs
-===================
+Simple MVC structure with Require.js
+====================================
